@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.alixa.greetingcardtraining"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.alixa.greetingcardtraining"
